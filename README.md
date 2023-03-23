@@ -1,5 +1,5 @@
 # Python_Forensics_Tool
-### This is a project to create a forensic tool made in Python. <br><br>
+This repository contains a collection of Python-based forensic tools for analyzing and converting data. The tools are organized into separate folders according to their functionality.
 
 ## Description
 #### This project is a project to develop forensic tools and forensic tools that utilize Python. The tools created in this project will be used for personal and personal research. Don't use it for illegal or unethical things. <br><br>
